@@ -33,9 +33,3 @@ if(notaFinal >= 4 && notaFinal < 8) {
 if(notaFinal >= 8) {
     alert(`Su promedio es de ${notaFinal} ¡Felicitacioes! Ha promocionado la materia`)
 }
-
-
-
-
-
-

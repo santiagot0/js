@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    margin: 4px;
+}
+
+div div img {
+    height: 50%;
+    object-fit: contain;
+}
